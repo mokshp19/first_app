@@ -28,10 +28,12 @@ To run this app on your local machine, follow the steps below.
 ```
 cd first_app
 ```
+
 3. Get the dependencies:
 ```
 flutter pub get
 ```
+
 4. Run the app:
 ```
 flutter run
