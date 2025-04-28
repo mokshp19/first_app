@@ -44,23 +44,21 @@ To run this app on your local machine, follow the steps below.
 
    ```bash
    git clone https://github.com/mokshp19/first_app.git
+   ```
 
 
 2. Navigate to
-```
-bash
-cd first_app
-```
+   ```bash
+   cd first_app
+   ```
 
 3. Get the dependencies:
-```
-bash
-flutter pub get
-```
+   ```bash
+   flutter pub get
+   ```
 
 4. Run the app:
-```
-bash
-flutter run
-```
+   ```bash
+   flutter run
+   ```
 
