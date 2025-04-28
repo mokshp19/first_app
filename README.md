@@ -62,3 +62,8 @@ To run this app on your local machine, follow the steps below.
    flutter run
    ```
 
+## Images of the App:
+![Screenshot 2025-04-28 163654](https://github.com/user-attachments/assets/9a4560f5-9849-4e42-814b-e19214cdcdf4)
+![Screenshot 2025-04-28 163703](https://github.com/user-attachments/assets/2646d537-c757-4c6a-be02-fab8e8891a73)
+
+
